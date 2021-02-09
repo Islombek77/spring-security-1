@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "fidanza.app.jwtExpiration",
+      "type": "java.lang.String",
+      "description": "Description for fidanza.app.jwtExpiration."
+  }
+] }
